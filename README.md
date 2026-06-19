@@ -1,6 +1,6 @@
 # Evolution X For Mi A2 Lite (daisy)
 
-## Evolution X Android 14 rom for Mi A2 Lite.
+## Evolution X Android 15 rom for Mi A2 Lite.
 
 It is an Unofficial Version.
 
